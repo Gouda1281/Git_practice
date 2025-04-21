@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("master branch!\n");
+    printf("Branch1 branch!\n");
     return 0;
 }
